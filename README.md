@@ -25,8 +25,8 @@ Each step of the sorting process is color-coded for better understanding:
 - 📈 **Time and Space Complexity Analysis** of the current algorithm
 
 ## 🖼️ Screenshots
-![Sorting Visualization](assets\srt.png)
-![Algorithm Selection](assets\image.png)
+![Sorting Visualization](assets/srt.png)
+![Algorithm Selection](assets/image.png)
 
 ## 📂 Project Structure
 ```
